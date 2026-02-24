@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SqlSanitizerAPI.UnitTests/SqlSanitizerAPI.UnitTests.csproj" Id="c389234f-af7b-42fb-82a9-e798974eab24" />
+  <Project Path="SqlSanitizerAPI.csproj" />
+</Solution>
