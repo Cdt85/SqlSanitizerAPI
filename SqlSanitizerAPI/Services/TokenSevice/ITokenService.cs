@@ -1,3 +1,4 @@
+using SqlSanitizerAPI.Models;
 using SqlSanitizerAPI.Models.Responses;
 
 namespace SqlSanitizerAPI.Services.TokenSevice

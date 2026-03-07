@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Moq;
 using SqlSanitizerAPI.Controllers;
-using SqlSanitizerAPI.Models.Responses;
+using SqlSanitizerAPI.Models;
 using SqlSanitizerAPI.Models.Requests;
 using SqlSanitizerAPI.Services.TokenSevice;
 using Xunit;

@@ -1,6 +1,7 @@
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using SqlSanitizerAPI.Configuration;
+using SqlSanitizerAPI.Models;
 using SqlSanitizerAPI.Models.Responses;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
